@@ -1,5 +1,7 @@
+
 datasets
-transformers
+accelerate>=0.26.0
 scikit-learn
-matplotlib
+transformers
 torch
+matplotlib
