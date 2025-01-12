@@ -34,7 +34,7 @@ Evaluate the model performance using the test script:
 python testing/test_model.py
 ```
 
-# Training and Validation Loss
+## Training and Validation Loss
 
 The training and validation loss for the model is shown below:
 
