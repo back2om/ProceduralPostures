@@ -33,3 +33,9 @@ Evaluate the model performance using the test script:
 ```bash
 python testing/test_model.py
 ```
+
+# Training and Validation Loss
+
+The training and validation loss for the model is shown below:
+
+![Training and Validation Loss](training_validation_loss.png)
