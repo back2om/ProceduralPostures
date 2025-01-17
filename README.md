@@ -1,7 +1,7 @@
 
-# BERT Fine-Tuning for Multi-label Classification
+# BERT Fine-Tuning for Multi-label Classification For Procedural Postures
 
-This project fine-tunes a DistilBERT model for multi-label classification based on input data in JSON format.
+Procedural postures are summary of how cases arrive before the court. It describes the procedural history along with the prior decisions.  The task is to automate the labeling of judicial opinions  with procedural postures. This project fine-tunes a DistilBERT model for multi-label classification based on input data in JSON format.
 
 ## Setup
 
